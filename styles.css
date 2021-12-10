@@ -1,0 +1,56 @@
+.container{
+    max-width: 80%;
+}
+/* header*/
+header{
+text-align: center;
+}
+
+/*navi*/
+
+#navi{
+    font-size: x-large;
+    border-bottom: 2px black solid;
+    border-top: 2px black solid;
+}
+
+/*hakemus*/
+form{
+    text-align: center;
+    background-color: rgb(170, 170, 170);
+}
+.elementti{ 
+    width: 60%;
+    text-align: right;
+}
+/*sisältö*/
+.teksti{
+    padding: 3%;
+}
+.kuva{
+    padding: 3%
+}
+
+#duunit{
+    padding-left: 5%;
+}
+/*footer*/
+
+footer{
+        border-top: black 2px solid;
+        text-align: center;
+}
+
+.carousel-control-prev {
+    left: -15%;
+    width: 10%;
+    background-color: black;
+    opacity: 100%;
+}
+.carousel-control-next {
+    right: -15%;
+    background-color: black;
+    width: 10%;
+    opacity: 100%;
+
+}
