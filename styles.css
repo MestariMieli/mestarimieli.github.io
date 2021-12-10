@@ -42,13 +42,13 @@ footer{
 }
 
 .carousel-control-prev {
-    left: -18%;
+    left: -20%;
     width: 10%;
     background-color: black;
     opacity: 100%;
 }
 .carousel-control-next {
-    right: -18%;
+    right: -20%;
     background-color: black;
     width: 10%;
     opacity: 100%;
