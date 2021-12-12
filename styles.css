@@ -3,10 +3,14 @@
     .carousel-inner{
         padding: 7%
     }
+    .elementti{
+        text-align: center;
+    }
 
 }
 .container{
     max-width: 80%;
+    ;
 }
 /* header*/
 header{
@@ -23,12 +27,16 @@ text-align: center;
 
 /*hakemus*/
 form{
-    text-align: center;
-    background-color: rgb(170, 170, 170);
+    text-align: left;
 }
-.elementti{ 
-    width: 60%;
-    text-align: right;
+
+#hakemusotsikko{
+    border-bottom: black 2px solid;
+}
+#lomake{
+    border-left: black 2px solid;
+    border-right: black 2px solid;
+    padding: 4%;
 }
 /*sisältö*/
 .teksti{
